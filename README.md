@@ -6,7 +6,7 @@ Ce dépôt est dédié aux **demandes d’ajout d’outils** pour le [référent
 
 ### Option 1 : Ouvrir une issue (recommandé)
 
-Ouvrez une [nouvelle issue](https://github.com/rudetools/contributions/issues/new) en indiquant :
+Ouvrez une [nouvelle issue](https://github.com/rudetools/contributions/issues/new) en indiquant :
 
 - **Nom de l’outil**
 - **URL** (site officiel ou dépôt GitHub)
@@ -18,13 +18,15 @@ Votre suggestion sera examinée et pourra être intégrée au référentiel.
 
 ### Option 2 : Ouvrir une Pull Request
 
-Si vous souhaitez proposer une **fiche rédigée** (format utilisé sur le site), vous pouvez :
+Si vous souhaitez proposer une **fiche rédigée** (format utilisé sur le site) :
 
-1. Forker ce dépôt
-2. Ajouter un fichier décrivant l’outil (par ex. dans un dossier `suggestions/` ou à la racine)
-3. Ouvrir une Pull Request
+1. Forkez ce dépôt
+2. Utilisez le [modèle de fiche](CONTRIBUTIONS_template-fiche.md) pour rédiger votre proposition (copiez-le, renommez-le, remplissez les sections)
+3. Ouvrez une Pull Request — le [modèle de PR](CONTRIBUTIONS_PR_TEMPLATE.md) vous guidera pour la description (nom, URL, catégorie, etc.)
 
-Indiquez la catégorie cible et, si possible, respectez la structure des fiches du site (voir le [guide de contribution](https://rudetools.dev/contribuer) sur RudeTools).
+Indiquez la catégorie cible. Pour plus de détails, voir le [guide Contribuer](https://rudetools.dev/contribuer) sur RudeTools.
+
+Si vous souhaitez que votre contribution soit **créditée** (lien vers votre profil GitHub, LinkedIn ou autre), précisez-le dans l’issue ou la Pull Request.
 
 ---
 
